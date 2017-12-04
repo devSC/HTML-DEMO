@@ -11,7 +11,11 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <JSCodeStyleSettings>
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
